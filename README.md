@@ -7,4 +7,4 @@ print ('hello seoul high school')
 
 
 ## [프로그램 개요]
-내가 만들고 싶은 프로그램은 무엇일까
+내가 만들고 싶은 프로그램은 
