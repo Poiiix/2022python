@@ -1,6 +1,6 @@
 # 2022python
 # 2022 python저장소 by 나
-print ('hello seoul high school')
+print ('hello world')
 220530 - 회원가입을 하고 비밀번호를 설정하였다.
 
 220613 - 비밀번호를 기억해내는데 성공했고 향해일지를 작성하였다.
